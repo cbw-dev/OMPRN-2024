@@ -1,6 +1,13 @@
-# Module 3
+# Module 3: NGS Analysis
 
 ## Lecture
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/N1jXdejkDZs?si=4Asi1d19l4weQEXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/11Ce2wKUm-QSeAZAATvHSzGgvroli0Sya/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Lab
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSQffBTLi-SNqhXkJzO48__7ywx5DkgyokR9EwTJiQCQYq7kVjalxt6t7prm1uyE-_MPuihIG22UebM/pub" width="640" height="480" allow="autoplay"></iframe>
