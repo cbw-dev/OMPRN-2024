@@ -1,14 +1,5 @@
-<!--
-IF YOUR WORKSHOP DOES NOT INCLUDE COMPUTE:
-- REMOVE "AND COMPUTE SETUP" FROM THE TOP-LEVEL HEADER
-- DELETE THE LAST SECTION (COMPUTE SETUP)
-
-IF YOUR WORKSHOP INCLUDES COMPUTE:
-- AFTER THE WORKSHOP, ADD DATA DOWNLOAD LINKS, AWS MACHINE IMAGE INSTRUCTIONS, ETC.
-- IF IT IS MORE APPROPRIATE, YOU CAN INCLUDE THE DATA DOWNLOAD LINKS IN EACH OF THE MODULES.
--->
-
 # Data
 
-#### Course data downloads
-[You can download the data for the course from here](https://drive.google.com/drive/folders/17o8Z1PQUGrf0I8mXe82L6sjNiqdjre2I)
+#### Course Data Downloads
+
+* [You can download the data for the course from here](https://drive.google.com/drive/folders/17o8Z1PQUGrf0I8mXe82L6sjNiqdjre2I)

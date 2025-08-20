@@ -1,9 +1,4 @@
-## CBW WORKSHOP YEAR
+## CBW Bridging Pathology and Genomics: A Practical Workshop on NGS for Pathologists and Pathology Researchers 2024
 
-[Workshop Website](YOUR WORKSHOP URL HERE)
+[Workshop Website](https://bioinformaticsdotca.github.io/OMPRN_2024/)
 
-CITY, PROVINCE(S)  
-Instructors: INSTRUCTOR NAMES  
-TAs: TA NAMES
-
-OUTLINE HERE

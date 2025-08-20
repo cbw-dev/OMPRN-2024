@@ -6,17 +6,17 @@
 
 <br>
 
-<iframe src="https://drive.google.com/file/d/1Dh4dXQfpH5W3_eQBnix4F1is4HzrN7UY/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WMP_8RTiv40?si=-aL1353yUjo2s6Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/WMP_8RTiv40?si=-aL1353yUjo2s6Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1Dh4dXQfpH5W3_eQBnix4F1is4HzrN7UY/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <br>
 
 <iframe src="https://drive.google.com/file/d/11n2EjMQeQ3IepN1b9NbOy-qc8MljKR5v/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Lab
+## Clinical Reporting Excercise
 
 <iframe src="https://docs.google.com/document/d/1JpocfdnmDgvm2aoo5UVwXEVxY3S73L9bnCdjD7_RW6k/preview" width="640" height="480" allow="autoplay"></iframe>
 
